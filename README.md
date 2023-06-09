@@ -7,6 +7,6 @@ This is an alt account to store the archived projects of mine, that I deem have 
 
 |[![TheAlienDrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=thealiendrew&custom_title=AltAlienDrew%27s%20GitHub%20Stats&show_icons=true&theme=blue-green&exclude_repo=minecraft-classic)](#) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altaliendrew&langs_count=10&layout=compact&theme=blue-green&exclude_repo=minecraft-classic)](#)|
 |:---:|
-|<details><summary>Excluded repos (click me to toggle)</summary><p>`minecraft-classic`</p></details> (due to majority of code not being my own)|
+|<details><summary>Excluded repos (click me to toggle)</summary><p>[`minecraft-classic`](https://github.com/AltAlienDrew/minecraft-classic)</p></details> (due to majority of code not being my own)|
 
 Please see my main account at https://github.com/TheAlienDrew.
