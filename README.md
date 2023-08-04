@@ -9,4 +9,4 @@ This is an alt account to store the archived projects of mine, that I deem have 
 |:-:|
 |<details><summary><b>Excluded Repos</b></summary><p><!-- <p>[repo](#) (why)</p> -->[`minecraft-classic`](https://github.com/Andrew-J-Larson-Alt/minecraft-classic) (cloned from [classic.minecraft.net](https://classic.minecraft.net/))</p></details>|
 
-Please see my main account at https://github.com/TheAlienDrew.
+Please see my main account at https://github.com/Andrew-J-Larson.
